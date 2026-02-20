@@ -1,0 +1,23 @@
+{
+    "name": "Scripts",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor",
+        "Unity.TextMeshPro.Editor.Tests",
+        "Unity.TextMeshPro.Tests",
+        "Unity.InputSystem.TestFramework",
+        "Unity.InputSystem",
+        "Unity.InputSystem.ForUI",
+        "Unity.InputSystem.IntegrationTests"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
